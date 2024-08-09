@@ -1,7 +1,7 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm omar elgazara</h1>
 <h3 align="center">A passionate Integration Engineer</h3>
-<img "src="https://gifer.com/embed/EGyk" width="100%" height="100%"  align="right">
+
 
 - 🔭 I’m currently working on **ValleySoft**
 
