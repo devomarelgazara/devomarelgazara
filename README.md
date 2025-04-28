@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Integration Engineer**
 
-- 🌱 I’m currently learning **Java Spring & OpenText**
-
 - 👯 I’m looking to collaborate on **Building a stable team**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devomarelgazara](https://github.com/devomarelgazara)
